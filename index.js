@@ -25,70 +25,95 @@ const makeImageButton = (image, audioMP3, audioOGG, x=0, y=0, scale=1) =>
 };
 
 makeImageButton(
-    'images/cha-cha-chang-chang.jpg',
-    'sounds/mp3/cha-cha-chang-chang.mp3',
-    'sounds/ogg/cha-cha-chang-chang.ogg'
+  'images/git-er-done.jpg',
+  'sounds/piano/piano-g.wav',
+  'sounds/piano/piano-g.wav',
 )
 
 makeImageButton(
-    'images/disappointed.jpg',
-    'sounds/mp3/disappointed.mp3',
-    'sounds/ogg/disappointed.ogg',
-    320
+  'images/git-er-done.jpg',
+  'sounds/piano/piano-a.wav',
+  'sounds/piano/piano-a.wav',
+  300,
+  0
 )
 
 makeImageButton(
-    'images/do-a-barrel-roll.jpg',
-    'sounds/mp3/do-a-barrel-roll.mp3',
-    'sounds/ogg/do-a-barrel-roll.ogg',
-    -100,
-    370
+  'images/git-er-done.jpg',
+  'sounds/piano/piano-bb.wav',
+  'sounds/piano/piano-bb.wav',
+  600,
+  0
 )
 
 makeImageButton(
-    'images/do-a-barrel-roll.jpg',
-    'sounds/mp3/do-a-barrel-roll.mp3',
-    'sounds/ogg/do-a-barrel-roll.ogg',
-    -100,
-    370
+  'images/git-er-done.jpg',
+  'sounds/piano/piano-b.wav',
+  'sounds/piano/piano-b.wav',
+  900,
+  0
 )
 
 makeImageButton(
-    'images/git-er-done.jpg',
-    'sounds/mp3/git-er-done.mp3',
-    'sounds/ogg/git-er-done.ogg',
-    330,
-    370
+  'images/git-er-done.jpg',
+  'sounds/piano/piano-cc.wav',
+  'sounds/piano/piano-cc.wav',
+  1200,
+  0
 )
 
 makeImageButton(
-    'images/groovy.jpg',
-    'sounds/mp3/groovy.mp3',
-    'sounds/ogg/groovy.ogg',
-    580,
-    370,
-    0.5
+  'images/git-er-done.jpg',
+  'sounds/piano/piano-c.wav',
+  'sounds/piano/piano-c.wav',
+  0,
+  250
 )
 
 makeImageButton(
-    'images/king-of-thieves.jpg',
-    'sounds/mp3/king-of-thieves.mp3',
-    'sounds/ogg/king-of-thieves.ogg',
-    580,
-    600,
-    0.5
+  'images/git-er-done.jpg',
+  'sounds/piano/piano-d.wav',
+  'sounds/piano/piano-d.wav',
+  300,
+  250
 )
 
 makeImageButton(
-    'images/what.jpg',
-    'sounds/mp3/what.mp3',
-    'sounds/ogg/what.ogg',
-    800
+  'images/git-er-done.jpg',
+  'sounds/piano/piano-eb.wav',
+  'sounds/piano/piano-eb.wav',
+  600,
+  250
 )
 
 makeImageButton(
-    'images/yeah.jpg',
-    'sounds/mp3/yeah.mp3',
-    'sounds/ogg/yeah.ogg',
-    1100
+  'images/git-er-done.jpg',
+  'sounds/piano/piano-e.wav',
+  'sounds/piano/piano-e.wav',
+  900,
+  250
+)
+
+makeImageButton(
+  'images/git-er-done.jpg',
+  'sounds/piano/piano-ff.wav',
+  'sounds/piano/piano-ff.wav',
+  1200,
+  250
+)
+
+makeImageButton(
+  'images/git-er-done.jpg',
+  'sounds/piano/piano-f.wav',
+  'sounds/piano/piano-f.wav',
+  0,
+  500
+)
+
+makeImageButton(
+  'images/git-er-done.jpg',
+  'sounds/piano/piano-gg.wav',
+  'sounds/piano/piano-gg.wav',
+  300,
+  500
 )
